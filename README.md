@@ -1,30 +1,129 @@
 ![MasterHead](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)
+![](https://komarev.com/ghpvc/?username=melihalkbk&color=blue)
+<div align="center">
+ <a href="https://github.com/melihalkbk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Melih+Alakabak+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Melih Alakabak</h1>
-<h3 align="center">A passionate Swift Developer from Turkey</h3>
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihalkbk&label=Profile%20views&color=0e75b6&style=flat" alt="melihalkbk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihalkbk" alt="melihalkbk" /></a> </p>
+<h3 align="left">&nbsp; A passionate Swift developer from Turkey</h3>
 
-- 🔭 I’m currently working on [swift-camp](https://github.com/melihalkbk/swift_camp)
+- 🔭 I’m currently working on **Swift**
+
+
+
+- 📫 How to reach me **melihalkbk@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alakabak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alakabak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melih-alakabak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih-alakabak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihalkbk&show_icons=true&locale=en&layout=compact" alt="melihalkbk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihalkbk&show_icons=true&locale=en" alt="melihalkbk" /></p>
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary> 
+-->
+# 💻 Languages and Tools:
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihalkbk&" alt="melihalkbk" /></p>
+ 
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=melihalkbk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="melihalkbk" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihalkbk&theme=material-palenight&hide_border=false" alt="melihalkbk" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihalkbk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="melihalkbk" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihalkbk&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/melihalkbk/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=melihalkbk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
