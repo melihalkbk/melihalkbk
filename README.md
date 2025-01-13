@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)
+![MasterHead](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)
 
 <h1 align="center">Hi 👋, I'm Melih Alakabak</h1>
 <h3 align="center">A passionate Swift Developer from Turkey</h3>
