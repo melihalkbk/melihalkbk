@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Languages, Frameworks & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
@@ -45,33 +45,12 @@
 
 <br />
 
+---
+
+## 🐍 GitHub Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/melihalkbk/melihalkbk/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 📊 GitHub Metrics & Performance
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=melihalkbk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&show_icons=true" alt="Melih GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihalkbk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihalkbk&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="85%" />
-  
-  <br /><br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=melihalkbk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="95%" />
-</div>
